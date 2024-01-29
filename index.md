@@ -10,10 +10,10 @@
 
 ## Programing Levels:
 |Mid|Low|
-|:--------:|:---------:|
+|:----:|:----:|
+|C++|PHP|
 |Python|Java|
-|C++|Markdown|
 |HTML|Bash|
-|CSS|PHP|
+|CSS|Markdown|
 
 ![programming cat](programming-cat.jpg)
