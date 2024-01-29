@@ -10,7 +10,7 @@
 
 ## Programing Levels:
 | Mid | Low |
-|:---:|:---:|
+|------------|------------|
 | C++ | PHP |
 | Python | Java |
 | HTML | Bash |
