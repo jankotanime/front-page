@@ -9,6 +9,7 @@
 - [ ] University of Gdansk (sem1) 2023-
 
 ## Programing Levels:
+
 | Nagłówek | Nagłówek |
 | ----------------- | ----------------- |
 | siala | baba |
