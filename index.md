@@ -9,12 +9,10 @@
 - [ ] University of Gdansk (sem1) 2023-
 
 ## Programing Levels:
-| Mid | Low |
-|------------|------------|
-| C++ | PHP |
-| Python | Java |
-| HTML | Bash |
-| CSS | Markdown |
+| Nagłówek | Nagłówek |
+| ----------------- | ----------------- |
+| siala | baba |
+| mak | dziad |
 
 ## Cats
 ![programming cat](programming-cat.jpg)
