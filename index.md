@@ -10,7 +10,7 @@
 
 ## Programing Levels:
 |Mid|Low|
-|:-----:|:-----:|
+|:--------:|:---------:|
 |Python|Java|
 |C++|Markdown|
 |HTML|Bash|
