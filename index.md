@@ -10,10 +10,12 @@
 
 ## Programing Levels:
 
-| Nagłówek | Nagłówek |
-| ----------------- | ----------------- |
-| siala | baba |
-| mak | dziad |
+| Mid | Low |
+|:-----------------:|:-----------------:|
+| C++ | Java |
+| Python | PHP |
+| HTML | Bash |
+| CSS | Markdown |
 
 ## Cats
 ![programming cat](programming-cat.jpg)
